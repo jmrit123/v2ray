@@ -120,3 +120,4 @@ Usage: v2ray [options]... [args]...
 反馈问题) https://github.com/233boy/v2ray/issues
 文档(doc) https://233boy.com/v2ray/v2ray-script/
 ```
+...lts
